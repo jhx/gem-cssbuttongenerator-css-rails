@@ -30,8 +30,10 @@ $ gem install cssbuttongenerator-css-rails
 Add these lines to `app/assets/stylesheets/application.css`
 
 ```css
+/*
 provides imageless css buttons from gem 'cssbuttongenerator-css-rails':
 = require cssbuttongenerator-css-rails
+*/
 ```
 
 Use one or more of the following button classes:
