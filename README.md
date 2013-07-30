@@ -6,7 +6,7 @@ Provides imageless css buttons for the Rails 3.1+ asset pipeline.
 
 ## Installation
 
-Add these lines to your application's Gemfile:
+Add these lines to your application's `Gemfile`:
 
 ```rb
 # imageless css buttons packaged for the rails asset pipeline
