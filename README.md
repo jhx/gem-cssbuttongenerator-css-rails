@@ -1,6 +1,6 @@
 # cssbuttongenerator-css-rails [![Gem Version](https://badge.fury.io/rb/cssbuttongenerator-css-rails.png)](http://badge.fury.io/rb/cssbuttongenerator-css-rails)
 
-> Created by Doc Walker
+> Gemified by Doc Walker
 
 Provides imageless css buttons for the Rails 3.1+ asset pipeline.
 
