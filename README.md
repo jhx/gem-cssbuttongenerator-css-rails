@@ -8,23 +8,64 @@ Provides imageless css buttons for the Rails 3.1+ asset pipeline.
 
 Add these lines to your application's Gemfile:
 
-    # imageless css buttons packaged for the rails asset pipeline
-    gem 'cssbuttongenerator-css-rails', '~> 1.0'
+```rb
+# imageless css buttons packaged for the rails asset pipeline
+gem 'cssbuttongenerator-css-rails', '~> 1.0'
+```
 
 And then execute:
 
-    $ bundle
+```sh
+$ bundle
+```
 
 Or install it yourself as:
 
-    $ gem install cssbuttongenerator-css-rails
+```sh
+$ gem install cssbuttongenerator-css-rails
+```
 
 ## Usage
 
 Add these lines to `app/assets/stylesheets/application.css`
 
-    provides imageless css buttons from gem 'cssbuttongenerator-css-rails':
-    = require cssbuttongenerator-css-rails
+```css
+provides imageless css buttons from gem 'cssbuttongenerator-css-rails':
+= require cssbuttongenerator-css-rails
+```
+
+Use one or more of the following button classes:
+
+```css
+.button_css_grey_0
+.button_css_red_1
+.button_css_green_2
+.button_css_blue_3
+.button_css_orange_4
+.button_css_magenta_5
+.button_css_violet_6
+.button_css_green_8
+.button_css_red_9
+.button_css_orange_10
+.button_css_blue_12
+.button_css_grey_13
+.button_css_orange_14
+.button_css_green_15
+.button_css_blue_16
+.button_css_orange_18
+.button_css_blue_20
+.button_css_orange_21
+.button_css_red_22
+.button_css_red_24
+.button_css_green_26
+```
+
+Rails/HAML examples:
+
+```haml
+= f.submit :value => 'Submit', :class => :button_css_green_2
+= link_to 'Cancel', :back, :class => :button_css_blue_3
+```
 
 ## Contributing
 
