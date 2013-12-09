@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/jhx/gem-cssbuttongenerator-css-rails.png?branch=master)](https://travis-ci.org/jhx/gem-cssbuttongenerator-css-rails)
 [![Dependency Status](https://gemnasium.com/jhx/gem-cssbuttongenerator-css-rails.png)](https://gemnasium.com/jhx/gem-cssbuttongenerator-css-rails)
 [![Code Climate](https://codeclimate.com/github/jhx/gem-cssbuttongenerator-css-rails.png)](https://codeclimate.com/github/jhx/gem-cssbuttongenerator-css-rails)
+[![Coverage Status](https://coveralls.io/repos/jhx/gem-cssbuttongenerator-css-rails/badge.png)](https://coveralls.io/r/jhx/gem-cssbuttongenerator-css-rails)
 
 > Gemified by Doc Walker
 
