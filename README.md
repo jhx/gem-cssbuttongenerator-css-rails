@@ -1,4 +1,4 @@
-# cssbuttongenerator-css-rails [![Gem Version](https://badge.fury.io/rb/cssbuttongenerator-css-rails.png)](http://badge.fury.io/rb/cssbuttongenerator-css-rails) [![Build Status](https://travis-ci.org/jhx/gem-cssbuttongenerator-css-rails.png?branch=master)](https://travis-ci.org/jhx/gem-cssbuttongenerator-css-rails)
+# cssbuttongenerator-css-rails [![Gem Version](https://badge.fury.io/rb/cssbuttongenerator-css-rails.png)](http://badge.fury.io/rb/cssbuttongenerator-css-rails)
 
 > Gemified by Doc Walker
 
@@ -76,6 +76,9 @@ Rails/HAML examples:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Code Status
+[![Build Status](https://travis-ci.org/jhx/gem-cssbuttongenerator-css-rails.png?branch=master)](https://travis-ci.org/jhx/gem-cssbuttongenerator-css-rails)
 
 ## Acknowledgements
 
