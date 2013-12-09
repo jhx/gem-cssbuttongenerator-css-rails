@@ -1,6 +1,7 @@
 # cssbuttongenerator-css-rails
 [![Gem Version](https://badge.fury.io/rb/cssbuttongenerator-css-rails.png)](http://badge.fury.io/rb/cssbuttongenerator-css-rails)
 [![Build Status](https://travis-ci.org/jhx/gem-cssbuttongenerator-css-rails.png?branch=master)](https://travis-ci.org/jhx/gem-cssbuttongenerator-css-rails)
+[![Dependency Status](https://gemnasium.com/jhx/gem-cssbuttongenerator-css-rails.png)](https://gemnasium.com/jhx/gem-cssbuttongenerator-css-rails)
 
 > Gemified by Doc Walker
 
