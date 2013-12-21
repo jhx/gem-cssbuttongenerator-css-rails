@@ -1,12 +1,11 @@
 require 'spec_helper'
+require 'semantic'
 
-describe CssbuttongeneratorCss do
+describe CssbuttongeneratorCss::Rails do
   context 'VERSION constant' do
-    it 'is a string' do
-      expect(CssbuttongeneratorCss::Rails::VERSION).to be_kind_of(String)
-    end # it
-    it 'is non-blank' do
-      expect(CssbuttongeneratorCss::Rails::VERSION).to_not be_empty
+    it 'is a valid SemVer string (semver.org)' do
+      version = CssbuttongeneratorCss::Rails::VERSION
+      expect { Semantic::Version.new version }.to_not raise_error()
     end # it
   end # context
 end # describe
