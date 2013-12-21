@@ -25,6 +25,8 @@ load 'rails/tasks/engine.rake'
 
 Bundler::GemHelper.install_tasks
 
-RSpec::Core::RakeTask.new('spec')
+require 'rspec/core/rake_task'
+
+RSpec::Core::RakeTask.new(:spec)
 
 task :default => :spec
