@@ -1,3 +1,4 @@
 /*
- *= require cssbuttongenerator-css-rails
- */
+provides imageless css buttons from gem 'cssbuttongenerator-css-rails':
+= require cssbuttongenerator-css-rails
+*/
