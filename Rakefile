@@ -32,7 +32,7 @@ require 'rspec/core/rake_task'
 
 RSpec::Core::RakeTask.new(:spec)
 
-task :default => [:spec, :rubocop]
+task :default => [:rubocop, :spec]
 
 #------------------------------------------------------ ruby lint/style checks
 desc 'Runs rubocop lint tool against the gem.'
