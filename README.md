@@ -15,7 +15,7 @@ Add these lines to your application's `Gemfile`:
 
 ```rb
 # imageless css buttons packaged for the rails asset pipeline
-gem 'cssbuttongenerator-css-rails', '~> 1.0.3'
+gem 'cssbuttongenerator-css-rails', '~> 1.0.4'
 ```
 
 And then execute:
