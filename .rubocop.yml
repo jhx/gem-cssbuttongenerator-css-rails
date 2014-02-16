@@ -2,7 +2,7 @@
 
 AllCops:
   Includes:
-    - cssbuttongenerator-css-rails.gemspec
+    - !ruby/regexp /\.gemspec$/
     - Gemfile
     - Rakefile
   Excludes: []
