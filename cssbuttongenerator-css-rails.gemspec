@@ -8,9 +8,12 @@ Gem::Specification.new do |spec|
   spec.version       = CssbuttongeneratorCss::Rails::VERSION
   spec.authors       = ['Doc Walker']
   spec.email         = ['doc.walker@jameshardie.com']
-  spec.description   = %q{Provides imageless css buttons for the Rails 3.1+ asset pipeline.}
-  spec.summary       = %q{Provides imageless css buttons for the Rails 3.1+ asset pipeline.}
-  spec.homepage      = 'https://github.com/jhx/gem-cssbuttongenerator-css-rails'
+  spec.description   = 'Provides imageless css buttons for the Rails 3.1+ ' \
+                       'asset pipeline.'
+  spec.summary       = 'Provides imageless css buttons for the Rails 3.1+ ' \
+                       'asset pipeline.'
+  spec.homepage      = 'https://github.com/jhx/' \
+                       'gem-cssbuttongenerator-css-rails'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files`.split($INPUT_RECORD_SEPARATOR)
