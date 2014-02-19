@@ -2,6 +2,7 @@
 
 AllCops:
   Includes:
+    - !ruby/regexp /\.gemspec$/
     - Gemfile
     - Rakefile
   Excludes: []
