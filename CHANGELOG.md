@@ -1,38 +1,46 @@
 CHANGELOG
 =========
 
+TBD
+------------------
+
+- `IMPROVE` - update CHANGELOG style
+- `IMPROVE` - adjust encoding comment in gemspec
+- `IMPROVE` - fix rubocop LineLength offenses
+
+
 1.0.4 / 2014-02-16
 ------------------
 
-- `NEW` add ruby lint checks (via rubocop), fix flagged items | [#17][]
-- `IMPROVE` update `semantic` gem version | [#15][]
-- `NEW` add [CHANGELOG](CHANGELOG.md) | [#13][]
-- `IMPROVE` update `railties` gem dependency | [#11][]
+- `NEW` - add ruby lint checks (via rubocop), fix flagged items | [#17][]
+- `IMPROVE` - update `semantic` gem version | [#15][]
+- `NEW` - add [CHANGELOG](CHANGELOG.md) | [#13][]
+- `IMPROVE` - update `railties` gem dependency | [#11][]
 
 
 1.0.3 / 2013-12-24
 ------------------
 
-- `IMPROVE` update coding style to match that of other jhx gems | [#8][]
+- `IMPROVE` - update coding style to match that of other jhx gems | [#8][]
 
 
 1.0.2 / 2013-12-21
 ------------------
 
-- `IMPROVE` add `semantic` gem, spec for valid VERSION constant | [#6][]
-- `NEW` add dummy rails app & associated specs | [#3][], [#4][]
+- `IMPROVE` - add `semantic` - gem, spec for valid VERSION constant | [#6][]
+- `NEW` - add dummy rails app & associated specs | [#3][], [#4][]
 
 
 1.0.1 / 2013-07-29
 ------------------
 
-- `IMPROVE` update [README](README.md) with minor changes
+- `IMPROVE` - update [README](README.md) with minor changes
 
 
 1.0.0 / 2013-07-29
 ------------------
 
-- `NEW` initial release
+- `NEW` - initial release
 
 
 Legend
