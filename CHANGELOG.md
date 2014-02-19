@@ -5,8 +5,7 @@ TBD
 ------------------
 
 - `IMPROVE` - update CHANGELOG style
-- `IMPROVE` - adjust encoding comment in gemspec
-- `IMPROVE` - fix rubocop LineLength offenses
+- `IMPROVE` - add gemspec to rubocop scope | [#19][]
 
 
 1.0.4 / 2014-02-16
@@ -60,3 +59,4 @@ Legend
 [#13]: https://github.com/jhx/gem-cssbuttongenerator-css-rails/issues/13
 [#15]: https://github.com/jhx/gem-cssbuttongenerator-css-rails/issues/15
 [#17]: https://github.com/jhx/gem-cssbuttongenerator-css-rails/issues/17
+[#19]: https://github.com/jhx/gem-cssbuttongenerator-css-rails/issues/19
