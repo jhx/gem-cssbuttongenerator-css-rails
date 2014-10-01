@@ -23,7 +23,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'railties', '>= 3.1'
 
-  spec.add_development_dependency 'bundler', '~> 1.7.3'
+  spec.add_development_dependency 'bundler', '~> 1.6.2'
   spec.add_development_dependency 'capybara', '~> 2.4.3'
   spec.add_development_dependency 'coveralls', '~> 0.7.1'
   spec.add_development_dependency 'launchy', '~> 2.4.2'
