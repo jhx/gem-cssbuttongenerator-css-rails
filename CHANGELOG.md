@@ -1,5 +1,19 @@
-CHANGELOG
-=========
+1.1.0 / 2014-10-27
+------------------
+
+- `NEW` - Add changelog rake task | [view](https://github.com/jhx/gem-cssbuttongenerator-css-rails/commit/c0ea7f1)
+- `NEW` - Add CONTRIBUTING.md | [view](https://github.com/jhx/gem-cssbuttongenerator-css-rails/commit/b7f96c6)
+- `IMPROVE` - Configure rspec to use expect syntax | [view](https://github.com/jhx/gem-cssbuttongenerator-css-rails/commit/262a1cb)
+- `IMPROVE` - Upgrade bundler version | [view](https://github.com/jhx/gem-cssbuttongenerator-css-rails/commit/7667aeb)
+- `IMPROVE` - Attempt to install bundler prior to tests | [view](https://github.com/jhx/gem-cssbuttongenerator-css-rails/commit/7dfeae1)
+- `FIX` - Downgrade to bundler 1.6.2 | [view](https://github.com/jhx/gem-cssbuttongenerator-css-rails/commit/e63ee5e)
+- `IMPROVE` - Update development gems | [view](https://github.com/jhx/gem-cssbuttongenerator-css-rails/commit/348838f)
+- `IMPROVE` - Update rubocop gem | [view](https://github.com/jhx/gem-cssbuttongenerator-css-rails/commit/2a5f6ad)
+- `IMPROVE` - Add MAJOR, MINOR, PATCH to version.rb | [view](https://github.com/jhx/gem-cssbuttongenerator-css-rails/commit/cd0e0ed)
+- `IMPROVE` - Update to ruby-2.1.2 | [view](https://github.com/jhx/gem-cssbuttongenerator-css-rails/commit/148c97b)
+- `FIX` - Disable FileName cop | [view](https://github.com/jhx/gem-cssbuttongenerator-css-rails/commit/0a15139)
+- `IMPROVE` - Update rubocop gem to v0.19.0 | [view](https://github.com/jhx/gem-cssbuttongenerator-css-rails/commit/476dec7)
+
 
 1.0.5 / 2014-02-19
 ------------------
