@@ -1,4 +1,4 @@
-1.1.0 / 2014-10-27
+1.1.0 / 2014-11-11
 ------------------
 
 - `NEW` - Add changelog rake task | [view](https://github.com/jhx/gem-cssbuttongenerator-css-rails/commit/c0ea7f1)
