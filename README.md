@@ -5,11 +5,11 @@
 [![Code Climate](http://img.shields.io/codeclimate/github/jhx/gem-cssbuttongenerator-css-rails.svg?style=flat)][code climate]
 [![Coveralls](http://img.shields.io/coveralls/jhx/gem-cssbuttongenerator-css-rails.svg?style=flat)][coveralls]
 
-[gem]: https://rubygems.org/gems/cssbuttongenerator-css-rails
-[travis]: https://travis-ci.org/jhx/gem-cssbuttongenerator-css-rails
-[gemnasium]: https://gemnasium.com/jhx/gem-cssbuttongenerator-css-rails
+[gem]:          https://rubygems.org/gems/cssbuttongenerator-css-rails
+[travis]:       https://travis-ci.org/jhx/gem-cssbuttongenerator-css-rails
+[gemnasium]:    https://gemnasium.com/jhx/gem-cssbuttongenerator-css-rails
 [code climate]: https://codeclimate.com/github/jhx/gem-cssbuttongenerator-css-rails
-[coveralls]: https://coveralls.io/r/jhx/gem-cssbuttongenerator-css-rails
+[coveralls]:    https://coveralls.io/r/jhx/gem-cssbuttongenerator-css-rails
 
 > Gemified by Doc Walker
 
