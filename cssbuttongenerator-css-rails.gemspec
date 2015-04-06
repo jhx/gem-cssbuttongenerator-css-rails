@@ -30,7 +30,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rails', '~> 3.2.14'
   spec.add_development_dependency 'rake', '~> 10.4.2'
   spec.add_development_dependency 'rspec-rails', '~> 3.1.0'
-  spec.add_development_dependency 'rubocop', '~> 0.26.1'
+  spec.add_development_dependency 'rubocop', '~> 0.29.1'
   spec.add_development_dependency 'semantic', '~> 1.4.0'
   spec.add_development_dependency 'sqlite3', '~> 1.3.9'
 end
